@@ -1,0 +1,29 @@
+# OS & Explorer metadata
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data, caches & large artifacts
+data/
+cache/
+work/
+export/
+*.csv
+*.parquet
+*.npy
+*.npz
+*.joblib
+*.pkl
+*.cbm
+*.zip
